@@ -16,10 +16,12 @@ En este caso trabaje con el Bolivar Venezolano (Bs) para hacer las diferentes co
 Ademas se agregaron dos conversores mas (Temperatura, Tiempo).
 
 El programa inicia con su respectivo menu para elegir el conversor de su preferencia:
+
 ![1 Menu](https://github.com/TeslaXZ/Conversores/assets/126691039/324378d4-b7f7-4700-a27a-3e8fefe04d48)
 
 
 El Conversor de divisas tiene cargada sus diferentes transaciones. Solo acepta numeros y punto(.).
+
 ![2 Divisas](https://github.com/TeslaXZ/Conversores/assets/126691039/e9ea4fb3-c8d2-4336-9577-f3aa306fde89)
 
 
